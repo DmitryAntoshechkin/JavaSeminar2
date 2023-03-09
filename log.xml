@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-09T20:07:33.506656500Z</date>
+  <millis>1678392453506</millis>
+  <nanos>656500</nanos>
+  <sequence>0</sequence>
+  <logger>seminar2_Homework.task1</logger>
+  <level>INFO</level>
+  <class>seminar2_Homework.task4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат операции: 11</message>
+</record>
+<record>
+  <date>2023-03-09T20:07:46.165773900Z</date>
+  <millis>1678392466165</millis>
+  <nanos>773900</nanos>
+  <sequence>1</sequence>
+  <logger>seminar2_Homework.task1</logger>
+  <level>INFO</level>
+  <class>seminar2_Homework.task4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат операции: -7</message>
+</record>
+<record>
+  <date>2023-03-09T20:07:54.145703500Z</date>
+  <millis>1678392474145</millis>
+  <nanos>703500</nanos>
+  <sequence>2</sequence>
+  <logger>seminar2_Homework.task1</logger>
+  <level>INFO</level>
+  <class>seminar2_Homework.task4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат операции: 72</message>
+</record>
+</log>
